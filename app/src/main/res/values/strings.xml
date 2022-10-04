@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Progect220922</string>
+    <string name="question_text">Vispalsya segodnya?</string>
+    <string name="true_button">Yes</string>
+    <string name="false_button">No</string>
+    <string name="correct_toast">Verno</string>
+    <string name="incorrect_toast">Oshibka</string>
+    <string name="next_button">Vpered</string>
+    <string name="question_a">Hochesh spat?</string>
+    <string name="question_b">Vo skolkolyazhew spat?</string>
+    <string name="question_c">Tebe voobshe nyzhno spat?</string>
+    <string name="question_d">Horowii den?</string>
+    <string name="question_e">Ploxoi den?</string>
+
+
+</resources>
